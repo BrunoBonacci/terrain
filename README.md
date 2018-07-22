@@ -7,7 +7,7 @@ challenge presented here:
 
 ## Usage
 
-Here is how the simulation looks like:
+Here is how the simulation looks like (click to watch the simulation):
 
 [![Terrain](./assets/Terrain.png)](./assets/Terrain.mov)
 
