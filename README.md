@@ -7,9 +7,9 @@ challenge presented here:
 
 ## Usage
 
-Here is how the simulation looks like (click to watch the simulation):
+Here is how the simulation looks like:
 
-[![Terrain](./assets/Terrain.png)](./assets/Terrain.mov)
+![Terrain](./assets/Terrain.gif)]
 
 ```
 lein run
