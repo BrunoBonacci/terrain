@@ -9,7 +9,7 @@ challenge presented here:
 
 Here is how the simulation looks like:
 
-![Terrain](./assets/Terrain.gif)]
+![Terrain](./assets/Terrain.gif)
 
 ```
 lein run
