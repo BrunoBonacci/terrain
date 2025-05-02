@@ -9,7 +9,7 @@
   :scm {:name "git" :url "https://github.com/BrunoBonacci/terrain.git"}
 
   :dependencies [[org.clojure/clojure "1.9.0"]
-                 [quil "2.7.1"]]
+                 [quil "4.3.1563"]]
 
   :main terrain.core
 

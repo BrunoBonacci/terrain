@@ -53,7 +53,7 @@
 (defn draw [state]
   (let [terrain (noise-field state)]
     (q/background 0)
-    (q/stroke-float 255)
+    (q/stroke 255)
     (q/no-fill)
     ;;(q/fill 87 35 47)
     (q/with-translation [(/ xview 2) (/ yview 2)]
